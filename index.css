@@ -17,7 +17,7 @@ body {
     width: 100%;
     line-height: 1.5;
     color: #212529;
-    text-align: center;
+    text-align: left;
     background-color: rgb(222 235 249);
 }
 
@@ -660,7 +660,7 @@ html{
         page-break-inside: avoid;
     }
 
-    {
+    body {
         min-width: 535px !important;
     }
 
