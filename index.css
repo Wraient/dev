@@ -182,7 +182,7 @@ html{
 #contacts-links-are-here {
     margin-top: 1%;
     text-align: center;
-    /* scroll-margin-top:70px; */
+    scroll-margin-top:300px;
 }
 
 #projects-are-here{
