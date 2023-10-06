@@ -9,6 +9,10 @@ nav {
     display: block;
 }
 
+.contact-links{
+    margin:10px;
+}
+
 body {
     margin: 0;
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
@@ -178,7 +182,7 @@ html{
 #contacts-links-are-here {
     margin-top: 1%;
     text-align: center;
-    scroll-margin-top:70px;
+    /* scroll-margin-top:70px; */
 }
 
 #projects-are-here{
